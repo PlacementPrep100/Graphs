@@ -1,3 +1,6 @@
+// this solution is simply a implemenattion of finding number of connected components in an undirected graph
+
+
 class Solution {
 public:
     int n;
