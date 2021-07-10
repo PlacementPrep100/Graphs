@@ -1,6 +1,9 @@
 class Solution
 {
     public:
+    
+    //Approach : Just checking if there is any DFS possible with all the vertices present in that
+    
     bool DFS(vector <int> adj[],vector<bool>& visited,int s,int count,int N){
         visited[s] =true;
         count++;
