@@ -1,5 +1,4 @@
-// Leetcode 58 Erect A Fence
-// Graham Scan Algorithm
+// Leetcode 587 Convex Hull Graham Scan
 class Solution {
     public int[][] outerTrees(int[][] trees) {
         int n=trees.length;
